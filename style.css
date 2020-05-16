@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(218, 218, 211);
+}
+
+.container{
+    width: 10cm;
+    border: .3rem solid #bdbda6 ;
+         ;       
+}
+
+
+.heading{
+    fo
+    margin: 15px;
+    padding: 2px;
+    font:small-caps bold 16pt sans-serif;
+}
+
+.img{
+    
+    margin: 15px;
+    padding: 10px;
+}
+
+.info{
+    border: thick double rgb(147, 156, 167) ;    
+    
+    margin: 15px;
+    padding: 10px;
+}
+
+.fact{
+    font:italic  12pt monospace;
+    width: 100%;
+}
+
+
+ul{
+    list-style-type: none;
+    width:90%;
+    font:  14pt "Times New Roman";
+}
+strong{font-weight: bolder;}
+
+
+.ppp{
+    width:100%;
+    font:  14pt georgia;
+}
+
